@@ -1,7 +1,7 @@
-=== Auto Update Plugins ===
+=== Auto Update Themes ===
 Contributors: Geenyous
 Donate link: http://www.geenyous.com/
-Tags: plugin, update, auto, automatic, automatically
+Tags: theme, themes, plugin, update, auto, automatic, automatically
 Requires at least: 3.7
 Tested up to: 4.1.1
 Stable tag: 0.1.2
