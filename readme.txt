@@ -21,7 +21,7 @@ This plugin sets Wordpress to automatically download and install theme updates.
 
 == Frequently Asked Questions ==
 
-This plugin should activate the automatic downloading on theme updates within Wordpress.
+This plugin should activate the automatic downloading of theme updates within Wordpress.
 
 You should normally see the automatic update routine execute within 12 hours of receiving the manual upgrade notice.
 
