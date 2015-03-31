@@ -8,7 +8,7 @@
 
  * Description: This plugin turns on auto update for themes.
 
- * Version: 0.1.0
+ * Version: 0.1.1
 
  * Author: Geenyous Limited
 
